@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://iryam.shop/</loc>
-    <lastmod>2024-08-18T06:14:02+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
   <loc>https://iryam.shop/</loc>
   <lastmod>2024-08-18T15:55:55+00:00</lastmod>
   <priority>1.00</priority>
@@ -178,6 +181,7 @@
   <loc>https://iryam.shop/goodsDetails?jobsProductId=1419861292306657280&amp;recommendProductId=2407191100300356200&amp;hyId=kibt-fe-cj</loc>
   <lastmod>2024-08-18T15:55:55+00:00</lastmod>
   <priority>0.51</priority>
-</url> 
-  <!-- الروابط الأخرى -->
+</url>
+
+
 </urlset>
